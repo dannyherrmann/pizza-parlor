@@ -1,0 +1,18 @@
+.pizzaForm {
+    border: 3px black solid;
+    padding: 10px;
+}
+
+#orders {
+    border: 3px black solid;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-left:20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
